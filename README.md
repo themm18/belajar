@@ -1,2 +1,3 @@
-# belajar
-belajar github sabtu pagi
+# belajar sabtu pagi
+ini adalah repository untuk belajar coding sabtu pagi
+umumnya kita belajar python
